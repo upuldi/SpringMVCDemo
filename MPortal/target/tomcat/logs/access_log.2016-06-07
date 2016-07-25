@@ -1,5 +1,0 @@
-0:0:0:0:0:0:0:1 - - [07/Jun/2016:23:49:42 +1000] "GET /hello/pukadsdsfsd HTTP/1.1" 404 - http-bio-8080-exec-1 0
-0:0:0:0:0:0:0:1 - - [07/Jun/2016:23:49:49 +1000] "GET /hello/pukadsdsfsd HTTP/1.1" 404 - http-bio-8080-exec-2 0
-0:0:0:0:0:0:0:1 - - [07/Jun/2016:23:50:03 +1000] "GET /hello/ HTTP/1.1" 404 - http-bio-8080-exec-3 0
-0:0:0:0:0:0:0:1 - - [07/Jun/2016:23:50:21 +1000] "GET /MPortal/hello/sss HTTP/1.1" 200 51 http-bio-8080-exec-4 139
-0:0:0:0:0:0:0:1 - - [07/Jun/2016:23:50:38 +1000] "GET /MPortal/hello/jhkjkjhjkkj HTTP/1.1" 200 51 http-bio-8080-exec-5 5
